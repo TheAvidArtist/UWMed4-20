@@ -1,0 +1,80 @@
+potential error in S-01
+0.59%
+Time Errors   9 43085990
+# Observed    1   4   4
+
+potential error in S-02
+0.52%
+Time Errors 43085990
+# Observed    4   4
+
+potential error in S-03
+0.65%
+Time Errors   9  20 43085990
+# Observed    1   1   4   4
+
+potential error in S-04
+0.84%
+Time Errors   9 43085990  81  15   5  20
+# Observed    1   4   4   1   1   1   1
+
+potential error in S-05
+1.39%
+Time Errors  73   9 43085990 611 810  17  81  20
+# Observed    1   2   4   4   1   1   1   1   4
+
+potential error in S-06
+0.66%
+Time Errors   9 43085990  20
+# Observed    1   4   4   1
+
+potential error in S-07
+19.95%
+Time Errors  20
+# Observed  255
+
+potential error in S-08
+50.0%
+Time Errors  21  17  11 126  19  20
+# Observed    3   1   1   1   3 502
+
+potential error in S-10
+50.0%
+Time Errors  17  44  19  26  20
+# Observed    1   1   1   1 504
+
+potential error in S-12
+99.81%
+Time Errors  20  80 400  211820  60 660 260  61 160 620  19  40 820
+# Observed  494   1   1   5   1   3   1   1   1   1   1   5   4   1
+
+potential error in S-13
+19.94%
+Time Errors  20
+# Observed  254
+
+potential error in S-14
+50.76%
+Time Errors  20 100 420  30 460  40 340
+# Observed  461   1   1   1   1   3   1
+
+potential error in S-15
+0.06%
+Time Errors  11
+# Observed    1
+
+potential error in S-16
+0.0%
+Time Errors
+# Observed 
+
+potential error in S-18
+0.13%
+Time Errors  57  14
+# Observed    1   1
+
+potential error in S-19
+0.0%
+Time Errors
+# Observed 
+

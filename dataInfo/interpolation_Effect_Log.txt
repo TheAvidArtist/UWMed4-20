@@ -1,0 +1,80 @@
+S-01 
+% of values from interpolation : 0.0
+% of values from 0-padding : 8.073
+% of values not changed : 91.927
+
+S-02 
+% of values from interpolation : 0.0
+% of values from 0-padding : 8.068
+% of values not changed : 91.932
+
+S-03 
+% of values from interpolation : 0.0
+% of values from 0-padding : 8.094
+% of values not changed : 91.906
+
+S-04 
+% of values from interpolation : 0.257
+% of values from 0-padding : 8.553
+% of values not changed : 91.19
+
+S-05 
+% of values from interpolation : 0.656
+% of values from 0-padding : 18.57
+% of values not changed : 80.774
+
+S-06 
+% of values from interpolation : 0.131
+% of values from 0-padding : 8.131
+% of values not changed : 91.738
+
+S-07 
+% of values from interpolation : 33.268
+% of values from 0-padding : 0.0
+% of values not changed : 66.732
+
+S-08 
+% of values from interpolation : 65.911
+% of values from 0-padding : 0.778
+% of values not changed : 33.312
+
+S-10 
+% of values from interpolation : 66.339
+% of values from 0-padding : 0.327
+% of values not changed : 33.333
+
+S-12 
+% of values from interpolation : 66.971
+% of values from 0-padding : 33.029
+% of values not changed : 0.0
+
+S-13 
+% of values from interpolation : 33.246
+% of values from 0-padding : 0.0
+% of values not changed : 66.754
+
+S-14 
+% of values from interpolation : 61.483
+% of values from 0-padding : 8.661
+% of values not changed : 29.856
+
+S-15 
+% of values from interpolation : 0.0
+% of values from 0-padding : 0.0
+% of values not changed : 100.0
+
+S-16 
+% of values from interpolation : 0.0
+% of values from 0-padding : 0.514
+% of values not changed : 99.486
+
+S-18 
+% of values from interpolation : 0.0
+% of values from 0-padding : 0.387
+% of values not changed : 99.613
+
+S-19 
+% of values from interpolation : 0.0
+% of values from 0-padding : 0.0
+% of values not changed : 100.0
+
